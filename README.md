@@ -6,10 +6,10 @@ But the Internet isn’t the only numbers-driven environment packed with informa
 For example, biologists collect enormous numbers of measurements on millions of cells and everything inside them. Astronomers fill banks of hard drives with observations of stars, galaxies and energy in deep space. Earth scientists assemble detailed snapshots of weather, including patterns of winds and waves throughout the world.
 
 2. What is the difference between Data and Big data.
-    Big Data:
+Big Data:
             Big Data is a concept in Software Engineering which we use when we have a large sets of machine generated data, which in most of the cases is unstructured and not easy to use with traditional RDBMS concepts. 
     
-    Data:
+Data:
                     Data Analytics on the other hand is more of analyzing data which could be structured or unstructured. Even though they both sound similar, there have different objectives. Out of huge data sets, when you want to narrow down a piece of customized data, we do number of steps in analyzing like investigating data, cleaning, transforming and getting the result.
  
 3 )Main reason behind the Hadoop become the solution for Data explosion:
